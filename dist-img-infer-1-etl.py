@@ -9,6 +9,12 @@
 
 # COMMAND ----------
 
+# MAGIC %md
+# MAGIC 
+# MAGIC Change to the notebook 2
+
+# COMMAND ----------
+
 import io
 import numpy as np
 import pandas as pd
