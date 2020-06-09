@@ -11,7 +11,7 @@
 
 # MAGIC %md
 # MAGIC 
-# MAGIC Change to the notebook 2
+# MAGIC Training change
 
 # COMMAND ----------
 
